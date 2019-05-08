@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-robofriends/static/css/main.3b8e8927.chunk.css",
+    "main.js": "/REACT-robofriends/static/js/main.974f3ec4.chunk.js",
+    "main.js.map": "/REACT-robofriends/static/js/main.974f3ec4.chunk.js.map",
+    "runtime~main.js": "/REACT-robofriends/static/js/runtime~main.bf89f9d5.js",
+    "runtime~main.js.map": "/REACT-robofriends/static/js/runtime~main.bf89f9d5.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/REACT-robofriends/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/REACT-robofriends/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/REACT-robofriends/index.html",
+    "precache-manifest.e4f6da4aa96d82726d5ff41041e50e46.js": "/REACT-robofriends/precache-manifest.e4f6da4aa96d82726d5ff41041e50e46.js",
+    "service-worker.js": "/REACT-robofriends/service-worker.js",
+    "static/css/main.3b8e8927.chunk.css.map": "/REACT-robofriends/static/css/main.3b8e8927.chunk.css.map"
+  }
+}
